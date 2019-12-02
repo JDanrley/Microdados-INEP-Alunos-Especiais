@@ -11,3 +11,7 @@ Observar a demanda de vagas de alunos com necessidades especiais (deficiência a
 # Tecnologias utilizadas
 
 Foi utilizada a biblioteca Pandas, junto com o Pyhton versão 3.7 para coleta e mensuração dos dados. Além disso, para exibição das informações, foi instalada a biblioteca Matplotlib para exibição gráfica dos dados.
+
+# Dados utilizados
+
+Os dados utilizados foram extraídos da página http://inep.gov.br/microdados, fonte oficial do INEP, em específico os dados do Censo Escolar, de 2014 até 2018.
